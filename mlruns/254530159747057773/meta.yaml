@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773
+creation_time: 1740946218698
+experiment_id: '254530159747057773'
+last_update_time: 1740946218698
+lifecycle_stage: active
+name: NYC_Taxi_XGBoost_Tuning

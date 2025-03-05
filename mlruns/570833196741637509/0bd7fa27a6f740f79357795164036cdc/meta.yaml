@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/0bd7fa27a6f740f79357795164036cdc/artifacts
+end_time: 1740960638122
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 0bd7fa27a6f740f79357795164036cdc
+run_name: resilient-goose-312
+run_uuid: 0bd7fa27a6f740f79357795164036cdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960606819
+status: 3
+tags: []
+user_id: sudeepthirongali

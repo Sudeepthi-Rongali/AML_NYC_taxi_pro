@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/07bc184794644b4fa293ddf24fbeed9f/artifacts
+end_time: 1740960825165
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 07bc184794644b4fa293ddf24fbeed9f
+run_name: amazing-crab-150
+run_uuid: 07bc184794644b4fa293ddf24fbeed9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960794312
+status: 3
+tags: []
+user_id: sudeepthirongali

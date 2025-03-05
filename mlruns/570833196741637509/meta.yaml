@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509
+creation_time: 1740960542484
+experiment_id: '570833196741637509'
+last_update_time: 1740960542484
+lifecycle_stage: active
+name: NYC_Taxi_LightGBM_Tuning

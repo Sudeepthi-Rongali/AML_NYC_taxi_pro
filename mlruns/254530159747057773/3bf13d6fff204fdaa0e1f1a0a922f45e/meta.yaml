@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/3bf13d6fff204fdaa0e1f1a0a922f45e/artifacts
+end_time: 1740946246656
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 3bf13d6fff204fdaa0e1f1a0a922f45e
+run_name: big-koi-518
+run_uuid: 3bf13d6fff204fdaa0e1f1a0a922f45e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946238073
+status: 3
+tags: []
+user_id: sudeepthirongali

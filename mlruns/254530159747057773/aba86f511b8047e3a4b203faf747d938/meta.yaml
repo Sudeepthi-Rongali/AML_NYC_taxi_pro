@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/aba86f511b8047e3a4b203faf747d938/artifacts
+end_time: 1740947125536
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: aba86f511b8047e3a4b203faf747d938
+run_name: carefree-doe-298
+run_uuid: aba86f511b8047e3a4b203faf747d938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947117617
+status: 3
+tags: []
+user_id: sudeepthirongali

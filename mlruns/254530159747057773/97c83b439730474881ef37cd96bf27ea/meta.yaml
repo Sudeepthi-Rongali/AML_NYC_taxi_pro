@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/97c83b439730474881ef37cd96bf27ea/artifacts
+end_time: 1740947134265
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 97c83b439730474881ef37cd96bf27ea
+run_name: clumsy-cow-750
+run_uuid: 97c83b439730474881ef37cd96bf27ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947125537
+status: 3
+tags: []
+user_id: sudeepthirongali

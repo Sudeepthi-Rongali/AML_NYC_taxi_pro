@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/36b8a1c726564728a8eddce1e6b72c9f/artifacts
+end_time: 1740946285060
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 36b8a1c726564728a8eddce1e6b72c9f
+run_name: bustling-snail-527
+run_uuid: 36b8a1c726564728a8eddce1e6b72c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946276990
+status: 3
+tags: []
+user_id: sudeepthirongali

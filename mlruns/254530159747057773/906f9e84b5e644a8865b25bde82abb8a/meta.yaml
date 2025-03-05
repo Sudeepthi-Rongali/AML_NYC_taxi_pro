@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/906f9e84b5e644a8865b25bde82abb8a/artifacts
+end_time: 1740946352531
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 906f9e84b5e644a8865b25bde82abb8a
+run_name: enchanting-eel-129
+run_uuid: 906f9e84b5e644a8865b25bde82abb8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946335009
+status: 3
+tags: []
+user_id: sudeepthirongali

@@ -1,0 +1,9 @@
+digest: '14588931'
+name: dataset
+profile: '{"features_shape": [55900, 672], "features_size": 37564800, "features_nbytes":
+  150259200}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 672]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "sudeepthirongali", "mlflow.source.name": "/opt/anaconda3/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

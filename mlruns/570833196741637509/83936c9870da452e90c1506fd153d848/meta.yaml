@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/83936c9870da452e90c1506fd153d848/artifacts
+end_time: 1740960606818
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 83936c9870da452e90c1506fd153d848
+run_name: fearless-frog-272
+run_uuid: 83936c9870da452e90c1506fd153d848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960575129
+status: 3
+tags: []
+user_id: sudeepthirongali

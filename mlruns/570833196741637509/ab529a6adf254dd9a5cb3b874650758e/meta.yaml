@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/ab529a6adf254dd9a5cb3b874650758e/artifacts
+end_time: 1740960794311
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: ab529a6adf254dd9a5cb3b874650758e
+run_name: nimble-shrike-360
+run_uuid: ab529a6adf254dd9a5cb3b874650758e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960761756
+status: 3
+tags: []
+user_id: sudeepthirongali

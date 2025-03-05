@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/3ca065ad2875416f9a5418f3dc8fbd0d/artifacts
+end_time: 1740960857162
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 3ca065ad2875416f9a5418f3dc8fbd0d
+run_name: tasteful-shrike-157
+run_uuid: 3ca065ad2875416f9a5418f3dc8fbd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960825166
+status: 3
+tags: []
+user_id: sudeepthirongali

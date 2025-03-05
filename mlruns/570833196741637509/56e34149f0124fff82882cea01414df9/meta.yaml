@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/56e34149f0124fff82882cea01414df9/artifacts
+end_time: 1740960922363
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 56e34149f0124fff82882cea01414df9
+run_name: illustrious-boar-456
+run_uuid: 56e34149f0124fff82882cea01414df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960890626
+status: 3
+tags: []
+user_id: sudeepthirongali

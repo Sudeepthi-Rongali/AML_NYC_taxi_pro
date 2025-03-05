@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/2ccd30530fc043b89cd2766df637bdad/artifacts
+end_time: 1740946322310
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 2ccd30530fc043b89cd2766df637bdad
+run_name: luminous-mouse-726
+run_uuid: 2ccd30530fc043b89cd2766df637bdad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946312011
+status: 3
+tags: []
+user_id: sudeepthirongali

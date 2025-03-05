@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/85a438f97b4e4212ae5e329be363d91d/artifacts
+end_time: 1740946238072
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 85a438f97b4e4212ae5e329be363d91d
+run_name: resilient-carp-967
+run_uuid: 85a438f97b4e4212ae5e329be363d91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946228940
+status: 3
+tags: []
+user_id: sudeepthirongali

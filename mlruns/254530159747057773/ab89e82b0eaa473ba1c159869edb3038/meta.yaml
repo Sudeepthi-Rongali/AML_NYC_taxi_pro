@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/ab89e82b0eaa473ba1c159869edb3038/artifacts
+end_time: 1740946276989
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: ab89e82b0eaa473ba1c159869edb3038
+run_name: clean-stoat-924
+run_uuid: ab89e82b0eaa473ba1c159869edb3038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946270103
+status: 3
+tags: []
+user_id: sudeepthirongali

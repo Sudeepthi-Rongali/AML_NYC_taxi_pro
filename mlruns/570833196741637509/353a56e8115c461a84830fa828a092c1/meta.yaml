@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/353a56e8115c461a84830fa828a092c1/artifacts
+end_time: 1740960575128
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 353a56e8115c461a84830fa828a092c1
+run_name: rogue-goose-812
+run_uuid: 353a56e8115c461a84830fa828a092c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960542561
+status: 3
+tags: []
+user_id: sudeepthirongali

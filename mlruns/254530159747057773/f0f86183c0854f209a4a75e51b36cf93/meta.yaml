@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/f0f86183c0854f209a4a75e51b36cf93/artifacts
+end_time: 1740947109429
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: f0f86183c0854f209a4a75e51b36cf93
+run_name: suave-koi-149
+run_uuid: f0f86183c0854f209a4a75e51b36cf93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947102618
+status: 3
+tags: []
+user_id: sudeepthirongali

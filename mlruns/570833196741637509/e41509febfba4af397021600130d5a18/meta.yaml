@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/e41509febfba4af397021600130d5a18/artifacts
+end_time: 1740960669065
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: e41509febfba4af397021600130d5a18
+run_name: nervous-donkey-364
+run_uuid: e41509febfba4af397021600130d5a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960638123
+status: 3
+tags: []
+user_id: sudeepthirongali

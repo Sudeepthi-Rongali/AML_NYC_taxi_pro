@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/b84c35805acf4fce9f2241bc1dfe974a/artifacts
+end_time: 1740947145141
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: b84c35805acf4fce9f2241bc1dfe974a
+run_name: painted-asp-157
+run_uuid: b84c35805acf4fce9f2241bc1dfe974a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947134266
+status: 3
+tags: []
+user_id: sudeepthirongali

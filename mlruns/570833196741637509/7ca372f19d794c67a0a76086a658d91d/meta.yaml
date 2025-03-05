@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/570833196741637509/7ca372f19d794c67a0a76086a658d91d/artifacts
+end_time: 1740960955475
+entry_point_name: ''
+experiment_id: '570833196741637509'
+lifecycle_stage: active
+run_id: 7ca372f19d794c67a0a76086a658d91d
+run_name: selective-dove-504
+run_uuid: 7ca372f19d794c67a0a76086a658d91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740960922364
+status: 3
+tags: []
+user_id: sudeepthirongali

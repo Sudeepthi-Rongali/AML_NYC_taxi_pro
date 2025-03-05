@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/9fb110dc4f70475990727445d79a994c/artifacts
+end_time: 1740946228939
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 9fb110dc4f70475990727445d79a994c
+run_name: merciful-foal-86
+run_uuid: 9fb110dc4f70475990727445d79a994c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946218814
+status: 3
+tags: []
+user_id: sudeepthirongali

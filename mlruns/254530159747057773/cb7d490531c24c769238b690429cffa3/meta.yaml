@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/cb7d490531c24c769238b690429cffa3/artifacts
+end_time: 1740947061113
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: cb7d490531c24c769238b690429cffa3
+run_name: exultant-rat-115
+run_uuid: cb7d490531c24c769238b690429cffa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947050963
+status: 3
+tags: []
+user_id: sudeepthirongali

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/14a061cfdc2244898b63ed2c1468d75c/artifacts
+end_time: 1740947078781
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 14a061cfdc2244898b63ed2c1468d75c
+run_name: nebulous-horse-457
+run_uuid: 14a061cfdc2244898b63ed2c1468d75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947070177
+status: 3
+tags: []
+user_id: sudeepthirongali

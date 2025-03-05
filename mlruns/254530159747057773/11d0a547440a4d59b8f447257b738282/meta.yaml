@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudeepthirongali/nyc_taxi_project/mlruns/254530159747057773/11d0a547440a4d59b8f447257b738282/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '254530159747057773'
+lifecycle_stage: active
+run_id: 11d0a547440a4d59b8f447257b738282
+run_name: rumbling-horse-977
+run_uuid: 11d0a547440a4d59b8f447257b738282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740947187165
+status: 1
+tags: []
+user_id: sudeepthirongali
