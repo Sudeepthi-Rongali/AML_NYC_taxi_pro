@@ -16,21 +16,31 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # Specify the Python version
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements_feature_pipeline.txt
 
-      # Add a step to remove the corrupted February file from the raw data folder
-      - name: Remove corrupted February data file
+      # Remove corrupted February file
+      - name: Remove corrupted February file
         run: |
           if [ -f data/raw/rides_2024_02.parquet ]; then
             echo "Removing corrupted rides_2024_02.parquet..."
             rm -f data/raw/rides_2024_02.parquet
           else
             echo "rides_2024_02.parquet does not exist. Skipping removal."
+          fi
+
+      # Remove corrupted March file
+      - name: Remove corrupted March file
+        run: |
+          if [ -f data/raw/rides_2024_03.parquet ]; then
+            echo "Removing corrupted rides_2024_03.parquet..."
+            rm -f data/raw/rides_2024_03.parquet
+          else
+            echo "rides_2024_03.parquet does not exist. Skipping removal."
           fi
 
       - name: List raw data folder
