@@ -31,31 +31,26 @@ def fetch_raw_trip_data(year: int, month: int) -> Path:
 
 def transform_ts_data_info_features_aggregated(df, feature_col="rides"):
     """
-    Aggregates raw time-series lag columns into 5 features:
-      - mean_rides
-      - std_rides
-      - min_rides
-      - max_rides
-      - last_rides
-    Also retains 'pickup_hour' and 'pickup_location_id'.
+    Aggregates raw time-series data into 5 features per location.
+    For example, computes the mean, min, max, standard deviation, and sum of rides
+    over the entire period available in the dataframe.
+    
+    Assumes that df contains at least the columns:
+      - feature_col (e.g., "rides")
+      - "pickup_location_id"
+      - "pickup_hour" (which is not used for aggregation but can be kept as identifier)
+    
+    Returns:
+        pd.DataFrame: Aggregated features with columns:
+            ["pickup_location_id", "mean_rides", "min_rides", "max_rides", "std_rides", "sum_rides"]
     """
-    import pandas as pd
+    agg_df = df.groupby("pickup_location_id").agg({
+        feature_col: ['mean', 'min', 'max', 'std', 'sum']
+    }).reset_index()
+    # Flatten multi-index columns
+    agg_df.columns = ["pickup_location_id", "mean_rides", "min_rides", "max_rides", "std_rides", "sum_rides"]
+    return agg_df
 
-    past_rides_cols = [col for col in df.columns if col.startswith("rides_t-")]
-    if not past_rides_cols:
-        raise ValueError("No past rides columns found in the DataFrame.")
-
-    agg_features = pd.DataFrame()
-    agg_features["mean_rides"] = df[past_rides_cols].mean(axis=1)
-    agg_features["std_rides"] = df[past_rides_cols].std(axis=1)
-    agg_features["min_rides"] = df[past_rides_cols].min(axis=1)
-    agg_features["max_rides"] = df[past_rides_cols].max(axis=1)
-    agg_features["last_rides"] = df[past_rides_cols].iloc[:, -1]
-    # Retain the identifier and pickup_hour for further processing
-    agg_features["pickup_location_id"] = df["pickup_location_id"].values
-    if "pickup_hour" in df.columns:
-        agg_features["pickup_hour"] = df["pickup_hour"].values
-    return agg_features
 
 
 def filter_nyc_taxi_data(rides: pd.DataFrame, year: int, month: int) -> pd.DataFrame:
